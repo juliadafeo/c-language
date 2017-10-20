@@ -8,7 +8,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 #include <stdio.h>
 
-int main()
+void main()
 {
     float fahr, celsius;
     int lower, step, upper;
